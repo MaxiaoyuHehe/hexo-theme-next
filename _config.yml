@@ -242,7 +242,7 @@ mathjax:
 
 # Duoshuo ShortName
 duoshuo_shortname: vqa-lib
-duoshuo_hotartical: true
+#duoshuo_hotartical: true
 
 # Disqus
 #disqus_shortname:
