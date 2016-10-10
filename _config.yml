@@ -29,7 +29,7 @@ canonical: true
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  Materials: /MaxiaoyuTest
+  materials: /MaxiaoyuTest
   about: /about
   archives: /archives
   tags: /tags
@@ -46,7 +46,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: th
+  Materials: th
   tags: tags
   archives: archive
   commonweal: heartbeat
@@ -60,8 +60,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-scheme: Mist
-#scheme: Pisces
+#scheme: Mist
+scheme: Pisces
 
 
 # ---------------------------------------------------------------
